@@ -1,0 +1,12 @@
+
+--- Correlation Coefficients for Patch Colors (Example Image 0072) ---
+Target patches compared against:
+  Original Source: R=0.9825, G=0.9702, B=0.9597 (Mean: 0.9708)
+  PCC 1st Order (Linear):   R=0.9848, G=0.9656, B=0.9653 (Mean: 0.9719)
+  PCC 2nd Order:   R=0.9919, G=0.9857, B=0.9929 (Mean: 0.9901)
+  PCC 3rd Order:   R=0.9872, G=0.9911, B=0.9930 (Mean: 0.9904)
+  RPCC 2nd Order:  R=0.9828, G=0.9729, B=0.9761 (Mean: 0.9773)
+  RPCC 3rd Order:  R=0.9820, G=0.9806, B=0.9745 (Mean: 0.9790)
+  RPCC 4rd Order:  R=0.9698, G=0.9723, B=0.9694 (Mean: 0.9705)
+
+Note: Correlation is calculated on the 24 mean linear RGB values of the color checker patches.

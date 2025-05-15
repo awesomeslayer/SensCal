@@ -1,0 +1,12 @@
+--- Correlation Coefficients for Patch Colors ---
+(Models Trained ONLY on Image 0074)
+Target (Canon600D 0074) patches compared against calibrated Source (Canon1DsMkIII 0074) patches:
+  Original Source: R=0.9692, G=0.9759, B=0.9554 (Mean: 0.9669)
+  PCC 1st (Linear, Single Img Trained):   R=0.9806, G=0.9717, B=0.9722 (Mean: 0.9748)
+  PCC 2nd (Single Img Trained):   R=0.9963, G=0.9961, B=0.9955 (Mean: 0.9960)
+  PCC 3rd (Single Img Trained):   R=0.9998, G=0.9997, B=0.9997 (Mean: 0.9997)
+  RPCC 2nd (Single Img Trained):  R=0.9873, G=0.9794, B=0.9899 (Mean: 0.9856)
+  RPCC 3rd (Single Img Trained):  R=0.9926, G=0.9902, B=0.9920 (Mean: 0.9916)
+  RPCC 4th (Single Img Trained):  R=0.8198, G=0.8740, B=0.8223 (Mean: 0.8387)
+
+Note: Correlation is calculated on the mean linear RGB values of the color checker patches.
